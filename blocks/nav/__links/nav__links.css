@@ -1,6 +1,6 @@
 .nav__links {
   list-style: none;
   display: flex;
-  min-width: 60%;
+  min-width: 40%;
   justify-content: space-evenly;
 }
