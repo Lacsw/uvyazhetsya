@@ -3,4 +3,6 @@
   display: flex;
   min-width: 40%;
   justify-content: space-evenly;
+  margin: 0;
+  padding: 0;
 }
