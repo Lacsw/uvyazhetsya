@@ -1,0 +1,6 @@
+.nav__links {
+  list-style: none;
+  display: flex;
+  min-width: 60%;
+  justify-content: space-evenly;
+}
