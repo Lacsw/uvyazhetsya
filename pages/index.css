@@ -25,3 +25,9 @@
 @import url("../blocks/about/__text/about__text.css");
 @import url("../blocks/about/__title/about__title.css");
 
+/* product */
+@import url("../blocks/product/product.css");
+@import url("../blocks/product/__description/product__description.css");
+@import url("../blocks/product/__img/product__img.css");
+
+

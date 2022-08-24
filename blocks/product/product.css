@@ -1,0 +1,7 @@
+.product {
+  position: relative;
+  display: flex;
+  height: 830px;
+  align-items: center;
+  overflow: hidden;
+}
