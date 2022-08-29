@@ -27,10 +27,10 @@
 @import url("../blocks/about/__text/about__text.css");
 @import url("../blocks/about/__title/about__title.css");
 
-/* product */
-@import url("../blocks/product/product.css");
-@import url("../blocks/product/__description/product__description.css");
-@import url("../blocks/product/__img/product__img.css");
+/* mushroom */
+@import url("../blocks/mushroom/mushroom.css");
+@import url("../blocks/mushroom/__description/mushroom__description.css");
+@import url("../blocks/mushroom/__img/mushroom__img.css");
 
 /* footer */
 @import url("../blocks/footer/footer.css");
