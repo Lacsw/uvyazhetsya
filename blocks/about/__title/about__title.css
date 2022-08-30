@@ -1,4 +1,6 @@
 .about__title {
   line-height: 1.15;
   font-size: 40px;
+  margin: 0;
+  padding: 0;
 }
