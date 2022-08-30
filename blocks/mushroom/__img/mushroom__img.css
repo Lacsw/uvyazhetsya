@@ -1,10 +1,7 @@
 .mushroom__img {
-  height: 830px;
-  width: 600px;
+  height: 100%;
+  max-width: 600px;
   position: absolute;
   top: 0;
   right: -30px;
-  /* border-top-right-radius: 20%;
-  border-top-left-radius: 30%; */
-
 }
