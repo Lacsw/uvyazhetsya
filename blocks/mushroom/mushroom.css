@@ -7,4 +7,5 @@
   align-items: flex-start;
   overflow: hidden;
   background-color: #ece5df;
+  box-shadow: inset 0px 0px 20px -5px rgb(0 0 0 / 50%);
 }
