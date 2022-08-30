@@ -11,7 +11,7 @@
 .sand__img {
   max-width: 400px;
   max-height: 500px;
-  box-shadow: 4px 4px 15px 0 rgba(0,0,0,.25)
+  box-shadow: 4px 4px 15px 0 rgba(0,0,0,.25);
 }
 
 .sand__description {

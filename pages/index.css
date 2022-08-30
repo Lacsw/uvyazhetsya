@@ -31,6 +31,8 @@
 @import url("../blocks/mushroom/mushroom.css");
 @import url("../blocks/mushroom/__description/mushroom__description.css");
 @import url("../blocks/mushroom/__img/mushroom__img.css");
+@import url("../blocks/mushroom/__text/mushroom__text.css");
+@import url("../blocks/mushroom/__title/mushroom__title.css");
 
 /* sand */
 @import url("../blocks/sand/sand.css");
